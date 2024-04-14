@@ -1,0 +1,9 @@
+1. the terminal is a program that lets users input commands to move through files in a computer.
+2.Git is a local repository where you have version control for your local changes 
+Github is a global repository in a sense where is accesible anywhere as long as public or through keys.
+3. click on fork in gitbug next to the watch button. 
+Then choose a name. 
+type a description. 
+you can copy the default branch only 
+click create fork 
+This is how you fork a repository
